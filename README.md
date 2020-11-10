@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm hobbitx 😄
+---
 
-<!--
-**hobbitx/hobbitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://youtu.be/otCpCn0l4Wo">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbitx" />
+</a>
 
-Here are some ideas to get you started:
+- ⛳ I'm from Contagem - Minas Gerais,Brazil
+- 🔨 I’m currently working at [Mundiale](https://www.mundiale.com.br/)
+- 💻 I'm currently in love with Node, C# and Eletronics in general
+- 🎥 I do some streams sporadically in [twitch](https://www.twitch.tv/pugdx)
+- 🐦 Follow me on [twitter](https://twitter.com/Hobbit_XK) (portuguese)
+- 💬 Reach me at [discord](https://discord.gg/7kf8b7MdZR): hoob#1112
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'><i>✊🏿</i></h1>

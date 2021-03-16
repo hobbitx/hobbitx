@@ -1,6 +1,6 @@
 ### Hello, I'm hobbitx 😄
 ---
-<a href="https://www.linkedin.com/in/robert-cristiam/">
+<a href="https://www.linkedin.com/in/robert-cristiam/" target="_blank">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbitx" />
 </a>
 

@@ -1,9 +1,8 @@
 ### Hello, I'm hobbitx 😄
 ---
 
-<a href="https://youtu.be/otCpCn0l4Wo">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobbitx" />
-</a>
+
 
 - ⛳ I'm from Contagem - Minas Gerais,Brazil
 - 🔨 I’m currently working at [Mundiale](https://www.mundiale.com.br/)

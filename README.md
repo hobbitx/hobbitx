@@ -5,7 +5,7 @@
 </a>
 
 - ⛳ I'm from Contagem - Minas Gerais,Brazil
-- 🔨 I’m currently working at [Mundiale](https://www.mundiale.com.br/)
+- 🔨 I’m currently working at [Bwtech](https://www.bwtech.com/)
 - 💻 I'm currently in love with Node, C# and Eletronics in general
 - 🎥 I do some streams sporadically in [twitch](https://www.twitch.tv/pugdx)
 - 🐦 Follow me on [twitter](https://twitter.com/Hobbit_XK) (portuguese)

@@ -5,7 +5,7 @@
 </a>
 
 - ⛳ I'm from Contagem - Minas Gerais,Brazil
-- 🔨 I’m currently working at [Nubank](www.https://nubank.com)
+- 🔨 I’m currently working at [Nubank](https://nubank.com)
 - 💻 I'm currently in love with Node, C# and Eletronics in general
 - 🎥 I do some streams sporadically in [twitch](https://www.twitch.tv/pugdx)
 - 🐦 Follow me on [twitter](https://twitter.com/Hobbit_XK) (portuguese)

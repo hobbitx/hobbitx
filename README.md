@@ -1,9 +1,9 @@
 ### Hello, I'm hobbitx 😄
 ---
 
-- ⛳ I'm from Contagem - Minas Gerais,Brazil
+- ⛳ I'm from Belo Horizonte - Minas Gerais,Brazil
 - 🔨 I’m currently working at [Nubank](https://nubank.com.br)
-- 💻 I'm currently in love with Node, C# and Eletronics in general
+- 💻 I'm currently in love with Node, Clojure and Eletronics in general
 - 🐦 Follow me on [twitter](https://twitter.com/Hobbit_XK) (portuguese)
 - 💬 Reach me at [discord](https://discord.gg/7kf8b7MdZR): hoob#1112
 
